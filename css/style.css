@@ -380,7 +380,7 @@ img {
   justify-content: center;
 }
 
-.filters-item {
+.filters-item:not(:first-child) {
   margin-left: 8px;
 }
 
